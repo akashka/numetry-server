@@ -1,0 +1,48 @@
+{
+  "name": "ionic2-roles",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "8.4.0",
+    "yarn": "0.27.5"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@ionic-native/core": "^4.1.0",
+    "@ionic-native/splash-screen": "^4.1.0",
+    "@sendgrid/mail": "^6.1.2",
+    "aws-sdk": "^2.691.0",
+    "axios": "^0.16.2",
+    "base-64": "^0.1.0",
+    "bcrypt": "^1.0.3",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "csv-writer": "^1.6.0",
+    "curlrequest": "^1.0.1",
+    "express": "^4.14.0",
+    "html-pdf": "^2.2.0",
+    "json2csv": "^3.11.5",
+    "jsonwebtoken": "^7.1.9",
+    "lodash-node": "^3.10.2",
+    "mongoose": "^4.6.3",
+    "morgan": "^1.7.0",
+    "multer": "^1.4.2",
+    "nodemailer": "^4.0.1",
+    "otp-generator": "^1.1.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.1.0",
+    "passport-local": "^1.0.0",
+    "phantom-html-to-pdf": "^0.6.0",
+    "phantomjs-prebuilt": "^2.1.16",
+    "pptxgenjs": "^3.2.1",
+    "pusher": "^3.0.1",
+    "qrcode": "^1.4.4",
+    "request-promise": "^4.2.1",
+    "sentiment": "^5.0.2",
+    "speakeasy": "^2.0.0"
+  }
+}
